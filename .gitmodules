@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/common-plugin"]
+	path = wp-content/plugins/common-plugin
+	url = https://github.com/sagar-savani-md/common-plugin.git
